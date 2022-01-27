@@ -18,6 +18,15 @@ class main {
 
 
 
+        //prompt the user to enter marks
+        System.out.println("Enter Marks");
+        mark  = sc.nextInt();
+
+
+
+
+
+
 
 
 
